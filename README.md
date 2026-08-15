@@ -1,15 +1,15 @@
-Password Generator 
-This is a simple Python project that generates random passwords.
+Password Generator
 
-The user chooses the password length, and the program creates a random password using letters, numbers, and symbols.
+A simple Python password generator that creates random passwords based on the length chosen by the user.
 
-Technologies Used
-Python
-Random module
 Features
-Choose password length
-Generate random passwords
-Use letters, numbers, and symbols
-Purpose
-This project was created to practice Python basics, loops, user input, strings, and the random module.
 
+Generates a random password
+Lets the user choose the password length
+Uses letters, numbers, and symbols
+Creates a different password each time
+Beginner-friendly project
+Technologies Used
+
+Python
+random module
